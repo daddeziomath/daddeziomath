@@ -1,16 +1,13 @@
-## Hi there 👋
+# Marco D'Addezio
 
-<!--
-**daddeziomath/daddeziomath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research mathematician at CNRS, working in arithmetic geometry.
 
-Here are some ideas to get you started:
+## Formalised mathematics · Lean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Affine crystalline cohomology and de Rham cohomology](https://github.com/daddeziomath/affine-crystalline) — a Lean 4 formalisation built on Mathlib, using a bounded infinitesimal site and divided power envelopes. [Archived release](https://doi.org/10.5281/zenodo.23573535).
+
+## AI agents & evaluation
+
+- **Information retention in agent chains** — an AI-assisted exploratory study of factual fidelity through repeated LLM-agent summaries. Manuscript and code are not yet public.
+
+[Project website](https://daddeziomath.github.io/)
