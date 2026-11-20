@@ -8,6 +8,6 @@ Research mathematician at CNRS, working in arithmetic geometry.
 
 ## AI agents & evaluation
 
-- **Information retention in agent chains** — an AI-assisted exploratory study of factual fidelity through repeated LLM-agent summaries. Manuscript and code are not yet public.
+- [Information Retention in Chains of Language Model Agents](https://github.com/daddeziomath/information-retention-agent-chains) — an AI-assisted exploratory study of factual retention through repeated language model handoffs. [Read the paper (PDF)](https://github.com/daddeziomath/information-retention-agent-chains/blob/main/paper/manuscript.pdf).
 
 [Project website](https://daddeziomath.github.io/)
